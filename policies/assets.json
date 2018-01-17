@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE21", 
+            "course": "ece21", 
             "name": "IITDelhi-Virtual_Queuing_Networks_Modelling.JPG", 
-            "org": "IIT-Delhi", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IITDelhi-Virtual Queuing Networks Modelling.JPG", 
-        "filename": "asset-v1:IIT-Delhi+ECE21+Anytime+type@asset+block@IITDelhi-Virtual_Queuing_Networks_Modelling.JPG", 
+        "filename": "asset-v1:Virtual-Labs+ece21+Anytime+type@asset+block@IITDelhi-Virtual_Queuing_Networks_Modelling.JPG", 
         "import_path": "IITDelhi-Virtual Queuing Networks Modelling.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Delhi", 
-            "ECE21", 
+            "Virtual-Labs", 
+            "ece21", 
             "thumbnail", 
             "IITDelhi-Virtual_Queuing_Networks_Modelling-JPG.jpg", 
             null
